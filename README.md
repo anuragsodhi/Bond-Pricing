@@ -1,3 +1,3 @@
-# Vasicek-Fong
+# Bond Pricing
 
-Vasicek-Fong cubic spline model For fitting yield curve and pricing bonds
+1. Vasicek-Fong cubic spline model For fitting yield curve and pricing bonds
